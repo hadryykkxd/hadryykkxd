@@ -1,8 +1,8 @@
 # 👨‍💻 Hadryan Carvalho
 
-**`Desenvolvedor Back-End`**
+**`Back-End Developer`**
 
-Me chamo Hadryan Carvalho, tenho 17 anos e sou Brasileiro - São Paulo. Estou cursando TI em uma Escola Secundária em Portugal - Lisboa. Sou apaixonado por tecnologia e venho cada vez mais tentando aumentar meus conhecimentos em Engines e línguagens de programações que tem objetivo em Back-End e criação de jogos. Aqui compartilho meu Linkedin: "[Linkedin](https://www.linkedin.com/in/hadryan-carvalho-80357a360/)", onde deixo um pouco mais de informações sobre mim. Estou agora em desenolvimento de jogos básicos 2D para projetos escolares e pessoal, ainda sou iniciante nessa área de criação de jogos e tomarei meu tempo necessário até chegar onde quero..
+My name is Hadryan Carvalho, I am 17 years old and I am Brazilian – São Paulo. I am currently studying IT at a secondary school in Portugal – Lisbon. I am passionate about technology and I have been increasingly trying to expand my knowledge in engines and programming languages aimed at back-end development and game creation. Here I share my Linkedin: "[Linkedin](https://www.linkedin.com/in/hadryan-carvalho-80357a360/)", where I provide a little more information about myself. I am now developing basic 2D games for school and personal projects; I am still a beginner in this area of game creation and I will take the necessary time to get where I want.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/hadryan-carvalho-80357a360/">
@@ -16,7 +16,7 @@ Me chamo Hadryan Carvalho, tenho 17 anos e sou Brasileiro - São Paulo. Estou cu
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Programs
 
 <img 
     align="left" 
