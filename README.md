@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Hadryan Carvalho, tenho 17 anos e sou Brasileiro - São Paulo. Estou cursando TI em uma Escola Secundária em Portugal - Lisboa. Sou apaixonado por tecnologia e venho cada vez mais tentando aumentar meus conhecimentos em Engines e línguagens de programações que tem objetivo em Back-End e criação de jogos. Aqui compartilho meu Linkedin "[Linkedin](https://www.linkedin.com/in/hadryan-carvalho-80357a360/)", onde deixo um pouco mais de informações sobre mim. Estou agora em desenolvimento de jogos básicos 2D para projetos escolares e pessoai, ainda sou iniciante nessa área de criação de jogos e tomarei meu tempo necessário até chegar onde quero..
+Me chamo Hadryan Carvalho, tenho 17 anos e sou Brasileiro - São Paulo. Estou cursando TI em uma Escola Secundária em Portugal - Lisboa. Sou apaixonado por tecnologia e venho cada vez mais tentando aumentar meus conhecimentos em Engines e línguagens de programações que tem objetivo em Back-End e criação de jogos. Aqui compartilho meu Linkedin: "[Linkedin](https://www.linkedin.com/in/hadryan-carvalho-80357a360/)", onde deixo um pouco mais de informações sobre mim. Estou agora em desenolvimento de jogos básicos 2D para projetos escolares e pessoai, ainda sou iniciante nessa área de criação de jogos e tomarei meu tempo necessário até chegar onde quero..
 
 <p align="left">
     <a href="https://www.linkedin.com/in/hadryan-carvalho-80357a360/">
